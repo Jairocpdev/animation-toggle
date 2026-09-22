@@ -24,7 +24,7 @@ Vercel - Deploy
 
 bash
 
-animation-toggle/
+animation-toggle/   
 ├── index.html  
 ├── styles.css  
 └── scripts.js  
