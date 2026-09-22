@@ -11,7 +11,8 @@ O componente alterna entre:
 🌙 Dark mode
 Com animação fluida e transição de cores.
 
-🚀 Tecnologias
+🚀 Tecnologias  
+
 HTML5 - Estrutura semântica  
 CSS3 - Animações, variáveis e transições  
 JavaScript - Lógica de toggle  
