@@ -1,60 +1,24 @@
-Claro! Aqui está o README completo pronto pra colar no seu GitHub:
+# ANIMATION TOGGLE
 
-ANIMATION TOGGLE
 Um toggle animado de tema claro/escuro com animação suave entre sol e lua.
 Feito em HTML, CSS e JavaScript puro, sem frameworks.
 
-🔗 Deploy ao vivo: https://animation-toggle.vercel.app
+> **Live Demo:** https://animation-toggle.vercel.app
 
-🌓 Demonstração
-O componente alterna entre:
+[![Vercel](https://img.shields.io/badge/Deploy-Vercel-black?style=for-the-badge&logo=vercel)](https://animation-toggle.vercel.app)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://github.com/Jairocpdev/animation-toggle)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://github.com/Jairocpdev/animation-toggle)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://github.com/Jairocpdev/animation-toggle)
 
-☀️ Light mode
-🌙 Dark mode
-Com animação fluida e transição de cores.
+## 🌓 O que faz
 
-Acesse: https://animation-toggle.vercel.app
+- ☀️ Light mode
+- 🌙 Dark mode
+- Animação fluida e transição de cores no toggle
 
-🚀 Tecnologias
-HTML5 - Estrutura semântica
-CSS3 - Animações, variáveis e transições
-JavaScript - Lógica de toggle
-Vercel - Deploy
-📁 Estrutura do projeto
-Code
-animation-toggle/
-├── index.html
-├── styles.css
-└── scripts.js
-💻 Instalação e uso local
-Bash
-# 1. Clone o repositório
-git clone https://github.com/Jairocpdev/animation-toggle.git
+## 🚀 Tecnologias
 
-# 2. Entre na pasta
-cd animation-toggle
-
-# 3. Abra o index.html no navegador
-
-2 linhas ocultas
-Sem dependências, sem build. Só abrir.
-
-🎨 Customização
-No styles.css:
-
-CSS
-:root {
-  --bg-light: #ffffff;
-  --bg-dark: #101010;
-  --transition-duration: 0.5s;
-}
-Mude o --transition-duration pra deixar a animação mais rápida ou mais lenta.
-
-📦 Deploy na Vercel
-Fork o repositório
-Importa no vercel.com/new
-Deploy automático
-📄 Licença
-MIT
-
-Feito por Jairo Andrade • https://github.com/Jairocpdev
+- **HTML5** - Estrutura semântica
+- **CSS3** - Animações, variáveis e transições  
+- **JavaScript** - Lógica de toggle
+- **Vercel** - Deploy
