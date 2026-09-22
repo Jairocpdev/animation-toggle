@@ -20,12 +20,14 @@ CSS3 - Animações, variáveis e transições
 JavaScript - Lógica de toggle  
 Vercel - Deploy  
 
-📁 Estrutura do projeto
+📁 Estrutura do projeto  
+
 bash
+
 animation-toggle/
-├── index.html
-├── styles.css
-└── scripts.js
+├── index.html  
+├── styles.css  
+└── scripts.js  
 
 💻 Como usar
 
