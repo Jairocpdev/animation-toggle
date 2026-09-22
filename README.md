@@ -12,7 +12,7 @@ O componente alterna entre:
 Com animação fluida e transição de cores.
 
 🚀 Tecnologias
-HTML5 - Estrutura semântica
-CSS3 - Animações, variáveis e transições
-JavaScript - Lógica de toggle
+HTML5 - Estrutura semântica  
+CSS3 - Animações, variáveis e transições  
+JavaScript - Lógica de toggle  
 Vercel - Deploy
